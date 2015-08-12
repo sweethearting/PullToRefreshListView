@@ -1,11 +1,12 @@
 # PullToRefreshListView
 #in the layout
-   <com.ayit.pulltorefreshlistview.PullToRefreshListView
+```XMl
+ <com.ayit.pulltorefreshlistview.PullToRefreshListView
         android:id="@+id/pullToRefreshListView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         />
-        
+```
         
 #in the Activity
             PullToRefreshListView pullToRefreshListView = (PullToRefreshListView) findViewById(R.id.pullToRefreshListView);
