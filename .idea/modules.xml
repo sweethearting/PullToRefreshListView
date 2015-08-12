@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ViewTest.iml" filepath="$PROJECT_DIR$/ViewTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arcmenuview/arcmenuview.iml" filepath="$PROJECT_DIR$/arcmenuview/arcmenuview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circleprogressview/circleprogressview.iml" filepath="$PROJECT_DIR$/circleprogressview/circleprogressview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paint/paint.iml" filepath="$PROJECT_DIR$/paint/paint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefreshlistview/pulltorefreshlistview.iml" filepath="$PROJECT_DIR$/pulltorefreshlistview/pulltorefreshlistview.iml" />
+    </modules>
+  </component>
+</project>
